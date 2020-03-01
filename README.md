@@ -1,1 +1,1 @@
-# Brian-L-Homework1 I had some Tecnical difficulties uploading this file.  It would not let me add my actual working repository to the the terminal. I  dragged and attached the actual working file "Brian-Levin-Home-work-01 into this folder.
+# Brian-L-Homework1 I had some technical difficulties uploading this file.  It would not let me add my actual working repository to the the terminal. I  dragged and attached the actual working file "Brian-Levin-Home-work-01 into this folder.
