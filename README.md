@@ -1,3 +1,3 @@
 # -Brian-Levin-Home-work-01 
 
-Home Work 1. Fixing up existing code.
+Home Work 1. I fixed up The Horiseon Seo Services  website code to give   it  a cleaner semantic syntax. Throughout the document, I changed the syntax and commented out where I made the changes to the viewer. I also deleted some of the image classes and combined the image classes to make one new class since each class shared the same value and I wanted to shorten the code. I also added alt attributes to the images just in case the standard images do not  show up in the viewer browser.
