@@ -1,4 +1,5 @@
 # HTML CSS Git: Code Refactor
+ <img src= "assets/images/digital-marketing-meeting.jpg">
  
  **User Story**
 
