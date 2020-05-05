@@ -1,3 +1,22 @@
-# -Brian-Levin-Home-work-01 
+# HTML CSS Git: Code Refactor
+ 
+ **User Story**
 
-Home Work 1. I fixed up The Horiseon Seo Services  website code to give   it  a cleaner semantic syntax. Throughout the document, I changed the syntax and commented out where I made the changes to the viewer. I also deleted some of the image classes and combined the image classes to make one new class since each class shared the same value and I wanted to shorten the code. I also added alt attributes to the images just in case the standard images do not  show up in the viewer browser.
+ For this assignment, I had to take preexisting code from a mock marketing website and refractor the Html and CSS. I had to ensure   that all links were functioning correctly and  to clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organize them to follow the semantic structure of the HTML elements, and included comments before each element or section of the page.
+
+ 
+
+ **Libraries and Frameworks**
+
+
+- HTML
+- CSS
+
+
+ **Process**
+-  Changed preexisting HTML elments syntax to give it more semantic meaning
+-  Made sure CSS selectors and properties matched  the semnactic structure of the HTMl elements
+
+-  Checked functionality of the website to make sure everything was still working properly
+
+
