@@ -111,8 +111,8 @@ main {
 }
 
 
-/* Made new image-height class by combining previous  deleted classes: search-engine-optimization, online-reputation-management, and  social-media-marketing */
-.image-height {
+/*  Service Section */
+.service {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -121,26 +121,18 @@ main {
     color: #ffffff;
 }
 
-/*   The newly added image-height  img class has the same max-height as the previous  deleted classes*/
-.image-height img {
+
+.service img {
     max-height: 200px;
 }
 
-/*  The newly added image-height h2 class  has the same margin-bottom and font-size for each image as the previous deleted classes.  */
-.image-height h2 {
+
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 /*  The newly added footer class has the same dimentions as the previous footer*/
 .footer {
     padding: 30px;
