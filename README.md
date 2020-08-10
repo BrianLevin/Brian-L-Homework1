@@ -1,4 +1,5 @@
 # HTML CSS Git: Code Refactor
+ <img src= "assets/images/digital-marketing-meeting.jpg">
  
  **User Story**
 
@@ -19,4 +20,7 @@
 
 -  Checked functionality of the website to make sure everything was still working properly
 
+**Deployed Application**
+
+https://brianlevin.github.io/Brian-L-Homework1/
 
