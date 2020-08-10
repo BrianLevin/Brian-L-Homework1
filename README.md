@@ -1,5 +1,5 @@
 # HTML CSS Git: Code Refactor
- <img src= "assets/images/digital-marketing-meeting.jpg">
+
  
  ## Description
 
@@ -8,14 +8,14 @@
   ## Click [here](https://brianlevin.github.io/Brian-L-Homework1/) for the deployed application.
   
   This is what the nav bar and main im look like:
-  [First Image Screenshot](images/first.png) 
+  [First Image Screenshot](assets/images/first.png) 
   
   This is what the services section of the page looks like:
-  [Second Image Screenshot](images/second.png)
+  [Second Image Screenshot](assets/images/second.png)
   
   This  is what the rest of the services section looks like and the footer of the page:
   
-  [Third  Image Screenshot](images/third.png)
+  [Third  Image Screenshot](assets/images/third.png)
   
   
  ## Libraries and Frameworks
