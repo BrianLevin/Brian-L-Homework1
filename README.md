@@ -1,26 +1,32 @@
 # HTML CSS Git: Code Refactor
  <img src= "assets/images/digital-marketing-meeting.jpg">
  
- **User Story**
+ ## Description
 
- For this assignment, I had to take preexisting code from a mock marketing website and refractor the Html and CSS. I had to ensure   that all links were functioning correctly and  to clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organize them to follow the semantic structure of the HTML elements, and included comments before each element or section of the page.
-
+ For this assignment, we had to take preexisting code from a mock marketing website and refractor the Html and CSS. I had to ensure   that all links were functioning correctly and  to clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organize them to follow the semantic structure of the HTML elements, and included comments before each element or section of the page.
  
-
- **Libraries and Frameworks**
+  ## Click [here](https://brianlevin.github.io/Brian-L-Homework1/) for the deployed application.
+  
+  This is what the nav bar and main im look like:
+  [First Image Screenshot](images/first.png) 
+  
+  This is what the services section of the page looks like:
+  [Second Image Screenshot](images/second.png)
+  
+  This  is what the rest of the services section looks like and the footer of the page:
+  
+  [Third  Image Screenshot](images/third.png)
+  
+  
+ ## Libraries and Frameworks
 
 
 - HTML
 - CSS
 
+## Email
 
- **Process**
--  Changed preexisting HTML elments syntax to give it more semantic meaning
--  Made sure CSS selectors and properties matched  the semnactic structure of the HTMl elements
+bml201095@gmail.com
 
--  Checked functionality of the website to make sure everything was still working properly
 
-**Deployed Application**
-
-https://brianlevin.github.io/Brian-L-Homework1/
 
